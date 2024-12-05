@@ -1,5 +1,5 @@
 # Movie Review Case Study 
-This repository contains the data, reference materials, hook document, and rubric necessary to complete the Case Study.
+This repository contains the instructions to obtain the data, reference materials, scripts, hook document, and rubric necessary to complete the Case Study.
 ## Data 
 The data file contains the instructions for obtaining data files, as the data is too large to upload to GitHub. 
 ## References 
